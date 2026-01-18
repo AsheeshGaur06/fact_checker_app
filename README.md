@@ -25,7 +25,7 @@ The app checks whether the claims in the PDF are:
 ## 🚀 Live Demo
 
 **Deployed App Link:**  
-👉 ![deployed link](https://your-app-name.streamlit.app)  
+👉 ![deployed link](https://factcheckerapp-2gb6srtpddvezrehdyvpqg.streamlit.app/)  
 
 
 ---
