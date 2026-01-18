@@ -1,6 +1,13 @@
 ## Output
 
-
+![Output](./Output/AI%20FACT%20CHECKER_01.png)
+![Output_01](./Output/AI%20FACT%20CHECKER_02.png)
+![Output_02](./Output/AI%20FACT%20CHECKER_03.png)
+![Output_03](./Output/AI%20FACT%20CHECKER_04.png)
+![Output_04](./Output/AI%20FACT%20CHECKER_05.png)
+![Output_05](./Output/AI%20FACT%20CHECKER_06.png)
+![Output_06](./Output/AI%20FACT%20CHECKER_07.png)
+![Output_07](./Output/AI%20FACT%20CHECKER_08.png)
 
 
 # 🧠 AI Fact-Checking Web App
