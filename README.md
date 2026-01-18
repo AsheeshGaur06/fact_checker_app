@@ -1,6 +1,6 @@
 ## Output
 
-![Output](./Output/Ai%20Fact%20Checker.png)
+![Output](./Output/AI%20Fact%20Checker.png)
 
 
 # 🧠 AI Fact-Checking Web App
