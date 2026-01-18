@@ -87,29 +87,41 @@ This helps catch wrong data, outdated statistics, and false information before p
 ## ⚙️ How to Run Locally
 
 1. **Clone the Repository**  
+```bash
 git clone https://github.com/your-username/fact_checker_app.git
 cd fact_checker_app
-
+```
 
 2. **Create Virtual Environment**
-
+```bash
 python -m venv venv
 venv\Scripts\activate   # Windows
 # OR
 source venv/bin/activate   # Mac/Linux
+```
 
 3. **Install Dependencies**
 
+```bash
+
 pip install -r requirements.txt
+
+```
 
 
 4. **Add Environment Variables**
+```bash
 Create a .env file with:
 
 OPENROUTER_API_KEY=your_api_key_here
 TAVILY_API_KEY=your_api_key_here
 
+```
+
 
 5. **Run the App**
 
+```bash
 streamlit run app.py
+
+```
